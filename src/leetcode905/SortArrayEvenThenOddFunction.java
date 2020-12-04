@@ -1,4 +1,4 @@
-package parity;
+package leetcode905;
 
 public class SortArrayEvenThenOddFunction {
     public int[] sortArrayByParity(int[] A) {

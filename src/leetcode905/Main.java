@@ -1,4 +1,4 @@
-package parity;
+package leetcode905;
 
 import java.util.Arrays;
 
